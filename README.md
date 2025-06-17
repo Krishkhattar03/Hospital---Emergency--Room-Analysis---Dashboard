@@ -65,10 +65,12 @@ Patient Waittime — triage‐to‐doctor minutes 
 
 ✅ Added slicers for month and year interactivity.
 
-✅ Saved and exported the final dashboard screenshot and file.
+✅ Saved and exported the final dashboard screenshot and file. (https://github.com/Krishkhattar03/Hospital---Emergency--Room-Analysis---Dashboard/blob/main/Screenshot.jpg)
 
 # Dashboard Interaction 
-https://github.com/Krishkhattar03/Hospital---Emergency--Room-Analysis---Dashboard/blob/main/Screenshot.jpg
+![WhatsApp Image 2025-06-16 at 12 21 45_a4c25130](https://github.com/user-attachments/assets/839f5c5d-74ce-4e5f-9313-6694535ea085)
+
+
 
 # Final Conclusion & Key Insights
 
