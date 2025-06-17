@@ -61,9 +61,32 @@ Patient Waittime — triage‐to‐doctor minutes 
 
 ✅ Built PivotTables and PivotCharts.
 
-✅ Created a clean dashboard layout with KPI cards, donut charts, and bar charts.
+✅ Created a clean dashboard layout with KPI cards, donut charts, and bar charts
 
 ✅ Added slicers for month and year interactivity.
 
 ✅ Saved and exported the final dashboard screenshot and file.
+
+# Dashboard Interaction 
+https://github.com/Krishkhattar03/Hospital---Emergency--Room-Analysis---Dashboard/blob/main/Screenshot.jpg
+
+# Final Conclusion & Key Insights
+
+This project successfully demonstrates how a well-structured Excel dashboard can transform raw hospital data into actionable insights for healthcare administrators. The dashboard provides a real-time, interactive overview of ER performance across critical dimensions such as wait time, admission rates, patient satisfaction, and demographic distribution.
+
+Key Takeaways:
+
+The average wait time (35.5 mins) is reasonable, but there is room to reduce delays further, especially for the 39% of patients who arrived late or were delayed.
+
+The patient satisfaction score of 4.71/5 indicates a generally positive experience, suggesting strong operational efficiency and staff responsiveness.
+
+Age group 70–79 had the highest patient volume, signaling the need for geriatric-friendly care and staffing in the ER.
+
+While most referrals came without a department tag (291), General Practice and Orthopedics contribute significantly to ER traffic and should be monitored closely.
+
+Gender distribution is nearly equal, with 51% female and 49% male patients, indicating balanced healthcare access.
+
+The admission rate of 52% vs. 48% discharged suggests that the ER is functioning as both a triage and care point — an indicator of efficient decision-making.
+
+The dashboard is not only a reporting tool but also a strategic asset that helps prioritize improvements in ER logistics, patient flow, and resource planning.
 
